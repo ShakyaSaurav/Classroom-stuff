@@ -1,3 +1,4 @@
+//Graphics simple project
 #include<conio.h>
 #include<stdio.h>
 #include<graphics.h>
