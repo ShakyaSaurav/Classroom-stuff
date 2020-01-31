@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<graphics.h>
 #include<dos.h>
+//also in github
 void main()
 {
 int i,gd=DETECT,gm,j;
