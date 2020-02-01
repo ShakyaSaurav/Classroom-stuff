@@ -12,7 +12,7 @@ void main()
 {
 int i,gd=DETECT,gm,j;
 initgraph(&gd,&gm,"C:\\TURBOC3\\BGI");
-setbkcolor(BLACK);
+setbkcolor(BLACK);//as
 for(i=0;i<200;i++)
 {
 //top ko red part
